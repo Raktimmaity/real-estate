@@ -92,9 +92,11 @@ A fully functional real estate platform for listing, managing, and searching pro
     localhost/real-estat/admin
     ```
     - Then Enter the admin id and password for login to the admin panel. Admin id and password is:
+    <br>
     Admin id: `admin@admin.com`
     <br>
     password: `nonpass`
+    <br>
     - N.B.: Admin can change or update his/her email id or password from profile and security section.
 
 ---
