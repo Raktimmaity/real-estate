@@ -15,6 +15,8 @@ A fully functional real estate platform for listing, managing, and searching pro
 ### 📊 Additional Features
 - Multi-level dropdown sidebar menu with active link highlights
 - Mobile-responsive design with Bootstrap 5
+- Login to admin panel Admin Id: `admin@admin.com`
+- Login to admin panel Admin Password: `nopass`
 
 ---
 
