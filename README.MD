@@ -128,7 +128,7 @@ A fully functional real estate platform for listing, managing, and searching pro
 ---
 ## 👨‍💻 Developer Contact
  * 👤 Raktim Maity
- * 📧 Email: reach.ratimmaity.com
+ * 📧 Email: raktimmaity2003@gmail.com
  * 🌐 Website: https://raktimmaity.free.nf
  * 🔗 GitHub: [github.com/Raktimmaity](https://github.com/Raktimmaity/)
  * 📌 LinkedIn: https://www.linkedin.com/in/raktim-maity-0a558824a/
